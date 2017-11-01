@@ -15,4 +15,5 @@ Dask is composed of two components:
 - [Cheat Sheet](http://dask.pydata.org/en/latest/cheatsheet.html)
 - [Matthew Rocklin's talk @PLOTCON 2016](https://www.youtube.com/watch?v=FTJwDeXkggU&index=7&list=WL)
 - [Tom Augspurger's Scalable Machine Learning series](http://tomaugspurger.github.io/scalable-ml-01.html)
+- [Distributed hyperparameter optimization with Dask-SearchCV](http://jcrist.github.io/introducing-dask-searchcv.html)
 - [Dask VS Celery](http://matthewrocklin.com/blog/work/2016/09/13/dask-and-celery)
